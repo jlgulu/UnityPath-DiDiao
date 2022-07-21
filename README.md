@@ -3,126 +3,194 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 一份涵盖大部分Unity工程师所需要掌握的核心知识，面试求职找工作，来这里，你不会后悔。以后会不断升级...
 在学习unity的过程中，大家往往会因为找不到相关的学习资料而苦恼，本文章收集了相关的资料：包括视频，书籍，源码，博主，文章。
 
-一.视频教程。
-    1.贪吃蛇。
+# 一.视频教程。
+
+## 1.贪吃蛇。
+
 Unity初级案例 - 贪吃蛇（Unity2017.2.0） - SiKi学院 - 生命不息，学习不止！
 
-     Unity初级案例课程，适合对Unity稍有了解的同学学习和挑战，课程使用Unity帮大家找回儿时诺基亚、红白机上的经典贪吃蛇！ 内含小清新的素材，通俗易懂的实现方法，对游戏逻辑的多种实现方法等。
-    2.吃豆人。
+  Unity初级案例课程，适合对Unity稍有了解的同学学习和挑战，课程使用Unity帮大家找回儿时诺基亚，红白机上的经典贪吃蛇！内含小清新的素材，通俗易懂的实现方法，对游戏逻辑的多种实现方法等。
+
+## 2.吃豆人。
+
 Unity初级案例 - 吃豆人（Unity2017.2.0） - SiKi学院 - 生命不息，学习不止！
 
-    Unity初级案例课程，适合对Unity稍有了解的同学学习和挑战，课程是Siki学院2017年11月末新人直播活动的进阶版录播~使用Unity复刻了传奇的Pacman吃豆人游戏！ 内含近似于原版的素材，通俗易懂的实现方法，巧妙的设计构思等。
-    3.炸弹人。
+  Unity初级案例课程，适合对Unity稍有了解的同学学习和挑战，课程是siki学院2017年11月末新人直播活动的进阶版录播，使用Unity复刻了传奇的吃豆人游戏！内容近似于原版的素材，通俗易懂的实现方法，巧妙的设计构思。
+
+## 3.炸弹人。
+
 Unity初级案例 - 炸弹人 - SiKi学院 - 生命不息，学习不止！
 
-    在本次课程中，老师给大家讲解经典游戏炸弹人的开发，课程是面向初级开发者的。欢迎大家加入学习。
-    4.愤怒的小鸟。
+  在本次课程中，老师给大家讲解经典游戏炸弹人的开发，课程是面向初级开发者的。欢迎大家加入学习。
+
+## 4.愤怒的小鸟。
+
 Unity初级案例 - 愤怒的小鸟 - SiKi学院 - 生命不息，学习不止！
 
-    这是一门Unity基础课程，用最通俗易懂的方法去制作愤怒的小鸟。课程内容全面，涉及到多个关卡的选择以及unity2D游戏的知识。喜欢玩这款游戏的同学们，赶快来看一看吧！
-    5.坦克大战。
+  这是一门Unity基础课程，用最通俗易懂的方法去制作愤怒的小鸟。课程内容全面，涉及到多个关卡的选择以及unity2D游戏的知识。喜欢玩这款游戏的同学们，赶快来看一看吧！
+
+## 5.坦克大战。
+
 Unity2D 初级案例 - 坦克大战(Unity2017.1) - SiKi学院 - 生命不息，学习不止！
-    这是一款童年小霸王插卡游戏，带大家缅怀一下童年的感觉，91版的坦克大战，2D游戏案例。
-    本课程为A计划第一阶段与第二阶段过渡课程，是基础课程，但涵盖知识很多，对之后大家往更高的方向学习很有帮助，祝大家学习愉快！这款游戏我在制作的时候虽然遇到了一些问题，但总体来说感觉还是比较简单的，适合大家入门学习。
-    6.斗地主。
+  这是一款童年小霸王插卡游戏，带大家缅怀一下童年的感觉，91版的坦克大战，2D游戏案例。
+  本课程为A计划第一阶段与第二阶段过渡课程，是基础课程，但涵盖知识很多，对之后大家往更高的方向学习很有帮助，祝大家学习愉快！这款游戏我在制作的时候虽然遇到了一些问题，但总体来说感觉还是比较简单的，适合大家入门学习。
+
+## 6.斗地主。
+
 Unity中级案例 - 单机斗地主 - SiKi学院 - 生命不息，学习不止！
-    课程内容涉及数据结构、对象池、MVC框架、数据存储等。
-    欢迎对斗地主游戏有兴趣的同学加入学习。
-    7.捕鱼达人。
+  课程内容涉及数据结构、对象池、MVC框架、数据存储等。
+  欢迎对斗地主游戏有兴趣的同学加入学习。
+
+## 7.捕鱼达人。
+
 Unity中级案例 - 捕鱼达人（Unity5.6.4） - SiKi学院 - 生命不息，学习不止！
 
-    Unity中级案例课程，适合有一定的Unity基础的同学学习，使用目前兼容性较好较稳定的Unity5.6.4开发，带领大家使用Unity还原曾经火爆一时的捕鱼达人游戏！ 内含华丽的素材，通俗易懂的实现方法，不为人知的细节重点等等。
-    8.猎宝行动。
-    本门课程带领大家开发一款2D游戏，主要涉及2D网格类游戏制作、道具版扫雷实现、A*寻路实现、简单粒子系统使用、DOTween与Cinemachine的使用、8方向的2D人物状态机设计，更多详情见下或演示视频，适合有一定Unity基础的且对项目或知识点感兴趣的同学学习。
-    9.五子棋大战。
+  Unity中级案例课程，适合有一定的Unity基础的同学学习，使用目前兼容性较好较稳定的Unity5.6.4开发，带领大家使用Unity还原曾经火爆一时的捕鱼达人游戏！ 内含华丽的素材，通俗易懂的实现方法，不为人知的细节重点等等。
+
+## 8.猎宝行动。
+
+  本门课程带领大家开发一款2D游戏，主要涉及2D网格类游戏制作、道具版扫雷实现、A*寻路实现、简单粒子系统使用、DOTween与Cinemachine的使用、8方向的2D人物状态机设计，更多详情见下或演示视频，适合有一定Unity基础的且对项目或知识点感兴趣的同学学习。
+
+## 9.五子棋大战。
+
 Unity中级案例 - 五子棋大战 - SiKi学院 - 生命不息，学习不止！
 
-    案例分为三种玩法，双人、人机、联网。其中人机五子棋AI有两种开发难度，欢迎有兴趣的同学加入学习！
-    10.萌熊跑酷。
+  案例分为三种玩法，双人、人机、联网。其中人机五子棋AI有两种开发难度，欢迎有兴趣的同学加入学习！
+
+## 10.萌熊跑酷。
+
 Unity3D中级案例 - 萌熊跑酷 - SiKi学院 - 生命不息，学习不止！
 
-    大家好，今天发布一门Unity3D的跑酷游戏， 基于MVC框架进行开发。
-    游戏内容涵盖人物换装，道具购买等。课程知识涉及对象池，Unity编辑器扩展， MVC框架搭建等知识，适合有一定C#基础以及Unity基础的同学进行学习。
-    11.甜品消消乐。
+  大家好，今天发布一门Unity3D的跑酷游戏， 基于MVC框架进行开发。
+  游戏内容涵盖人物换装，道具购买等。课程知识涉及对象池，Unity编辑器扩展， MVC框架搭建等知识，适合有一定C#基础以及Unity基础的同学进行学习。
+
+## 11.甜品消消乐。
+
 Unity2D 中级案例-甜品消消乐（Unity2017.2） - SiKi学院 - 生命不息，学习不止！
-    本课程开发的是一款三消类型的游戏，适合有一定的C#以及Unity基础的同学学习，是老师在几种比较常用的三消类游戏开发算法中甄选出的一种认为最完整的方法开发的项目，对大家的编程能力以及逻辑思维能力的提高非常有帮助。本课程几乎涵盖了三消类型游戏的所有基本功能。最后，希望大家都能有所收货，祝大家学习愉快！
-    12.小白超神Unity系列：Unity2017实现AR。
+  本课程开发的是一款三消类型的游戏，适合有一定的C#以及Unity基础的同学学习，是老师在几种比较常用的三消类游戏开发算法中甄选出的一种认为最完整的方法开发的项目，对大家的编程能力以及逻辑思维能力的提高非常有帮助。本课程几乎涵盖了三消类型游戏的所有基本功能。最后，希望大家都能有所收货，祝大家学习愉快！
+
+## 12.小白超神Unity系列：Unity2017实现AR。
+
 小白超神Unity系列：Unity2017实现AR - 泰课在线 -- 志存高远，稳如泰山 - 国内专业的在线学习平台|Unity3d培训|Unity教程|Unity教程 Unreal 虚幻 AR|移动开发|美术CG - Powered By EduSoho
 
-   13.ET5.0 网络斗地主开发(免费文档版)。
+## 13.ET5.0 网络斗地主开发(免费文档版)。
+
 ET5.0 网络斗地主开发(免费文档版) - 泰课在线 -- 志存高远，稳如泰山 - 国内专业的在线学习平台|Unity3d培训|Unity教程|Unity教程 Unreal 虚幻 AR|移动开发|美术CG - Powered By EduSoho
 
-   14.史上最全unity3d教程。
-   15.【极客学院】Unity3D入门教学 + 附c#编程基础。
-    16.Unity 3D地形编辑器。
+## 14.史上最全unity3d教程。
+
+## 15.【极客学院】Unity3D入门教学 + 附c#编程基础。
+
+## 16.Unity 3D地形编辑器。
+
 Unity 3D地形编辑器开发教程-慕课网
 
-    17.Unity 3D灯光系统之基础篇。
+## 17.Unity 3D灯光系统之基础篇。
+
 Unity 3D灯光系统之基础篇
 
-    18.Unity 3D音频系统。
+## 18.Unity 3D音频系统。
+
 Unity 3D音频系统教程-慕课网
 
-    19.Unity 3D游戏开发之脚本系统。
+## 19.Unity 3D游戏开发之脚本系统。
+
 Unity 3D游戏开发之脚本系统
 
-    20.Unity3D入门总览。
-    二.源码。
-    1.Unity3d 坦克射击大战游戏完整项目手游游戏源码
-    百度网盘链接：https://pan.baidu.com/s/1YOFEPjVOQwylLvssPU6Dhw?pwd=siki 
-    提取码：siki 
-    2.泡泡堂
-    百度网盘链接：https://pan.baidu.com/s/1zBkgyrPrwc5pq1UqIldscw?pwd=siki 
-    提取码：siki 
-    3.地牢破坏者
-    链接：https://pan.baidu.com/s/14LJs-lJMU8OlGG4LOOhBKw?pwd=siki 
-    提取码：siki 
-    4.三国杀
-    链接：https://pan.baidu.com/s/1LLa0v5W3IROtgwyNL3PZVQ?pwd=siki 
-   提取码：siki 
-    5.暗黑之刃
-    百度网盘链接：https://pan.baidu.com/s/11tVs3xkV1sdDobGfjblBAg?pwd=siki 
-    提取码：siki 
+## 20.Unity3D入门总览。
 
-    6.红蓝旋转
-    百度网盘链接：https://pan.baidu.com/s/1j4-hb8a7mSudKq_JenWQBw?pwd=siki 
-    提取码：siki 
-    7.守卫家园战争
-    百度网盘链接：https://pan.baidu.com/s/12eDPcerQ9_bMiuVwSS8JfA?pwd=siki 
-    提取码：siki 
-    8.第一人称射击游戏
-   百度网盘链接：https://pan.baidu.com/s/1KDwXAB23ZP5fBh3Io8duDg?pwd=siki 
-   提取码：siki 
-    9.武侠RPG
-   百度网盘链接：https://pan.baidu.com/s/1XFkpV0m8NRCZMC6mpkQynQ?pwd=siki 
-   提取码：siki 
-    10.传奇
-    百度网盘链接：https://pan.baidu.com/s/11Zqx80s1FgzCnThY1WcTuw?pwd=siki 
-    提取码：siki 
-    11.跑酷类游戏
-    百度网盘链接：https://pan.baidu.com/s/1ZlU5CcO433RRwwEZkfPeHw?pwd=siki 
-    提取码：siki 
-   12.密室枪手大作战
-   百度网盘链接：https://pan.baidu.com/s/13bDERFWeKHoeyQ7uTKrnxg?pwd=siki 
-   提取码：siki 
-   13.开心农场
-   百度网盘链接：https://pan.baidu.com/s/1eLRvT7QRjZK6BGxt9_k5oQ?pwd=siki 
-   提取码：siki 
-   14.城市建设类游戏
-   链接：https://pan.baidu.com/s/1PYen7lAuxaw6grQ_eznGoQ?pwd=siki 
-   提取码：siki 
-   15.维京战争
-   链接：https://pan.baidu.com/s/12VS8L45nCiVbPtEVKt4Q1w?pwd=siki 
-   提取码：siki 
-   16.fps射击游戏
-   链接：https://pan.baidu.com/s/16SpTDi-J_bE82QWuVxl04w?pwd=siki 
-   提取码：siki 
-   17.RPG动作游戏
-   链接：https://pan.baidu.com/s/1ryBhFs49yc5GRunT70aifQ?pwd=siki 
-   提取码：siki 
-   18.雷电
-   链接：https://pan.baidu.com/s/15hDsvic0UgbWoEGXfvJROg?pwd=siki 
-   提取码：siki 
+# 二.源码。
+
+## 1.Unity3d 坦克射击大战游戏完整项目手游游戏源码
+
+百度网盘链接：https://pan.baidu.com/s/1YOFEPjVOQwylLvssPU6Dhw?pwd=siki 
+提取码：siki 
+
+## 2.泡泡堂
+
+百度网盘链接：https://pan.baidu.com/s/1zBkgyrPrwc5pq1UqIldscw?pwd=siki 
+提取码：siki 
+
+## 3.地牢破坏者
+
+链接：https://pan.baidu.com/s/14LJs-lJMU8OlGG4LOOhBKw?pwd=siki 
+提取码：siki 
+
+## 4.三国杀
+
+链接：https://pan.baidu.com/s/1LLa0v5W3IROtgwyNL3PZVQ?pwd=siki 
+
+提取码：siki 
+
+## 5.暗黑之刃
+
+百度网盘链接：https://pan.baidu.com/s/11tVs3xkV1sdDobGfjblBAg?pwd=siki 
+提取码：siki 
+
+## 6.红蓝旋转
+
+百度网盘链接：https://pan.baidu.com/s/1j4-hb8a7mSudKq_JenWQBw?pwd=siki 
+提取码：siki 
+
+## 7.守卫家园战争
+
+百度网盘链接：https://pan.baidu.com/s/12eDPcerQ9_bMiuVwSS8JfA?pwd=siki 
+提取码：siki 
+
+## 8.第一人称射击游戏
+
+百度网盘链接：https://pan.baidu.com/s/1KDwXAB23ZP5fBh3Io8duDg?pwd=siki 
+提取码：siki 
+
+## 9.武侠RPG
+
+百度网盘链接：https://pan.baidu.com/s/1XFkpV0m8NRCZMC6mpkQynQ?pwd=siki 
+提取码：siki 
+
+## 10.传奇
+
+百度网盘链接：https://pan.baidu.com/s/11Zqx80s1FgzCnThY1WcTuw?pwd=siki 
+提取码：siki 
+
+## 11.跑酷类游戏
+
+ 百度网盘链接：https://pan.baidu.com/s/1ZlU5CcO433RRwwEZkfPeHw?pwd=siki 
+ 提取码：siki 
+
+## 12.密室枪手大作战
+
+ 百度网盘链接：https://pan.baidu.com/s/13bDERFWeKHoeyQ7uTKrnxg?pwd=siki 
+ 提取码：siki 
+
+## 13.开心农场
+
+ 百度网盘链接：https://pan.baidu.com/s/1eLRvT7QRjZK6BGxt9_k5oQ?pwd=siki 
+ 提取码：siki 
+
+## 14.城市建设类游戏
+
+ 链接：https://pan.baidu.com/s/1PYen7lAuxaw6grQ_eznGoQ?pwd=siki 
+ 提取码：siki 
+
+## 15.维京战争
+
+ 链接：https://pan.baidu.com/s/12VS8L45nCiVbPtEVKt4Q1w?pwd=siki 
+ 提取码：siki 
+
+## 16.fps射击游戏
+
+ 链接：https://pan.baidu.com/s/16SpTDi-J_bE82QWuVxl04w?pwd=siki 
+ 提取码：siki 
+
+## 17.RPG动作游戏
+
+ 链接：https://pan.baidu.com/s/1ryBhFs49yc5GRunT70aifQ?pwd=siki 
+ 提取码：siki 
+
+## 18.雷电
+
+ 链接：https://pan.baidu.com/s/15hDsvic0UgbWoEGXfvJROg?pwd=siki 
+ 提取码：siki 
 
 
 

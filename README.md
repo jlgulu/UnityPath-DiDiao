@@ -365,78 +365,113 @@ Unity 3D游戏开发之脚本系统
 
 ## 17.iTween。
 
-添加图片注释，不超过 140 字（可选）
-               iTween是一个动画库,作者创建它的目的就是最小的投入实现最大的产出.让你做开发更轻松,用它可以
+  iTween是一个动画库,作者创建它的目的就是最小的投入实现最大的产出.让你做开发更轻松,用它可以
 轻松实现各种动画,晃动,旋转,移动,褪色,上色,控制音频等等。
-             18. Photon Unity Networking。
 
-添加图片注释，不超过 140 字（可选）
-              Photon Unity Networking (PUN)是一种用于多人游戏的Unity软件包。灵活的匹配可以让玩家进入房间，可以通过网络同步对象。快速和可靠的通信是通过专用的Photon 服务器完成的，因此客户端连接不需要1对1。
-          19. Best HTTP。
-           Best HTTP2是一款网络插件，它支持REST,WebSocket,Socket,IO等，比Unity原生的WWW强大太多。
-           百度网盘链接：链接：https://pan.baidu.com/s/1G6DUIYj8LIuwo0CJ__13Gw?pwd=siki 
-           提取码：siki 
-         20. Ultimate Inventory System。
-Ultimate Inventory System是制作背包仓储系统的最佳插件，可以用来存储物品、装备、武器和杂物等。是制作RPG游戏的必备插件。
-百度网盘：链接：https://pan.baidu.com/s/1vUNnbPfwZxS13oX2kEd1OQ?pwd=siki 
-          提取码：siki 
-        21. UFPS: Ultimate FPS。
-UFPS是制作第一人称设计游戏的必备插件，开发者无需重造轮子，上手很快。
-UFPS
-         百度网盘：链接：https://pan.baidu.com/s/1DY3fXgO657naGJwa0WJXHA?pwd=siki 
-         提取码：siki 
-        22.SALSA LipSync Suite。
-        SALSA LipSync Suite是一款制作唇语同步&面部动画的插件，如果你的游戏包含大量对白，这款插件就很有必要了。
-salsa
-        百度网盘：链接：https://pan.baidu.com/s/1iVAYtX9fHM2QOiv5nR18Mg?pwd=siki 
-       提取码：siki 
-          七.学习路线推荐。
-           1.c＃编程基础。
-              2.unity3d游戏开发零基础入门系列教程。
-            3.unity3d游戏开发进阶系列教程。
+## 18. Photon Unity Networking。
+
+   Photon Unity Networking (PUN)是一种用于多人游戏的Unity软件包。灵活的匹配可以让玩家进入房间，可以通过网络同步对象。快速和可靠的通信是通过专用的Photon 服务器完成的，因此客户端连接不需要1对1。
+
+## 19. Best HTTP。
+
+   Best HTTP2是一款网络插件，它支持REST,WebSocket,Socket,IO等，比Unity原生的WWW强大太多。
+   百度网盘链接：链接：https://pan.baidu.com/s/1G6DUIYj8LIuwo0CJ__13Gw?pwd=siki 
+   提取码：siki 
+
+## 20. Ultimate Inventory System。
+
+  Ultimate Inventory System是制作背包仓储系统的最佳插件，可以用来存储物品、装备、武器和杂物等。是制作RPG游戏的必备插件。
+  百度网盘：链接：https://pan.baidu.com/s/1vUNnbPfwZxS13oX2kEd1OQ?pwd=siki 
+  提取码：siki 
+
+## 21.UFPS: Ultimate FPS。
+
+  UFPS是制作第一人称设计游戏的必备插件，开发者无需重造轮子，上手很快。
+  百度网盘：链接：https://pan.baidu.com/s/1DY3fXgO657naGJwa0WJXHA?pwd=siki 
+  提取码：siki 
+
+## 22.SALSA LipSync Suite。
+
+  SALSA LipSync Suite是一款制作唇语同步&面部动画的插件，如果你的游戏包含大量对白，这款插件就很有必要了。
+  百度网盘：链接：https://pan.baidu.com/s/1iVAYtX9fHM2QOiv5nR18Mg?pwd=siki 
+  提取码：siki 
+
+# 七.学习路线推荐。
+
+## 1.c＃编程基础。
+
+## 2.unity3d游戏开发零基础入门系列教程。
+
+## 3.unity3d游戏开发进阶系列教程。
+
 游戏开发中的设计模式（Unity 5.6）
 Unity2.5D RTS案例-云端战纪 - SiKi学院 - 生命不息，学习不止！
 Unity3D FPS案例 - 消灭病毒
 C#编程-第六季-编程内功修炼-算法-宇宙最简单教程 - SiKi学院 - 生命不息，学习不止！
 Unity商业游戏底层资源加载框架（Unity2018.1） - SiKi学院 - 生命不息，学习不止！
 框架搭建 决定版：架构演化（第一季）
-            4.网络游戏和进阶项目。
+
+## 4.网络游戏和进阶项目。
+
 阿里云SMS&OSS、腾讯云COS接入Unity（Unity2018.1.0） - SiKi学院 - 生命不息，学习不止！
 棋牌类游戏 - 诈金花（联网+单机） - SiKi学院 - 生命不息，学习不止！
 《丛林战争》直接利用Socket/TCP开发网络游戏 - C#（Unity5.6）
 《暗黑战神》3D网游ARPG实战案例（第一季）（Unity 2017.3）
 《暗黑战神》3D网游ARPG实战案例（第二季）（Unity 2017.3）
-八.网站推荐。
-1.siki学院。
+
+# 八.网站推荐。
+
+## 1.siki学院。
+
 链接：
-2.泰课。
+
+## 2.泰课。
+
 链接：
-3.慕课网。
+
+## 3.慕课网。
+
 链接：
 慕课网-程序员的梦工厂
-4.蛮牛教育。
+
+## 4.蛮牛教育。
+
 链接：
 https://edu.manew.com/
-5.极客学院。
+
+## 5.极客学院。
+
 链接：
 极客学习平台 - 专业的IT职业在线教育平台
-6.哔哩哔哩。
+
+## 6.哔哩哔哩。
+
 链接：
 搜索_哔哩哔哩-bilibili
-7.创客学院。
+
+## 7.创客学院。
+
 链接：
 创客学院-嵌入式培训|Java培训|Python培训|物联网培训 一站式IT培训在线学习平台
-8.51cto学院。
+
+## 8.51cto学院。
+
 链接：
-51CTO学堂-IT培训_IT人充电上51CTO学堂
-九.优缺点。
-1.优点。
-多平台发布：unity3d游戏开发支持的平台，无疑是当下较为流行的平台，满足绝大部分项目需求。
+
+## 51CTO学堂-IT培训_IT人充电上51CTO学堂
+
+# 九.优缺点。
+
+## 1.优点。
+
+  多平台发布：unity3d游戏开发支持的平台，无疑是当下较为流行的平台，满足绝大部分项目需求。
 所见即所得：可以预览游戏效果，除了编辑后立即运行，还能在运行过程中实时编辑。
 面向组件开发：不同的游戏项目，整个逻辑需要用C#重新写，但是资源都是可以沿用原来项目的。
 入门简单：开发语言C#相对于C/C++更简单，而且unity的使用已相对成熟，学习视频较多。
 支持ARVR：U3D是实现ARVR最主流的开发引擎。
-2.缺点。
-视觉效果：视觉效果不如unreal。
+
+## 2.缺点。
+
+  视觉效果：视觉效果不如unreal。
 源代码：无法从源代码构建或修复错误。
 模块化的开发方法使项目更容易遭到破坏。

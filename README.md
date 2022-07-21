@@ -192,176 +192,178 @@ Unity 3D游戏开发之脚本系统
  链接：https://pan.baidu.com/s/15hDsvic0UgbWoEGXfvJROg?pwd=siki 
  提取码：siki 
 
+# 三.书籍推荐。      
 
+## 1.游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）。
 
-    三.书籍推荐。      
-    1.游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）。
-     购买链接：
+ 购买链接：
 
-游戏设计 原型与开发 基于Unity与C#从构思到实现 第2
-京东
-¥290.00
-去购买
-     Unity入门全面教程，丰富的实例精粹，配套教学视频等丰富资源，不进培训班，真正实现完全自学！
-      2.Unity3D游戏开发。
-       购买链接：
+## 2.Unity3D游戏开发。
 
-Unity 3D游戏开发（第2版）(图灵出品)
-京东
-¥62.30
-去购买
-       畅销的unity游戏开发教程图书 基于Unity 2018全新升级 Unity User Group意见领袖经典之作 张鑫、高川、崇慕、杨博、陈小飞、窦玉波、张宏亮、郭智、郭振平等众多大神倾力推荐。
-        3.Unity3D网络游戏实战。
-         购买链接：
+购买链接：
 
-正版 Unity3D网络游戏实战(第2版)罗培羽|8054539
-京东
-¥53.40
-去购买
-         详解Socket编程，搭建稳健的网络框架；解决网游中常见的卡顿、频繁掉线等问题；探求适宜的实时同步算法。这本书写的浅显易懂，并且书中的配套资源也很丰富。
-          4.C#高级编程(第11版) C# 7 & .NET Core 2.0。
-           购买链接：
+## 3.Unity3D网络游戏实战。
 
-C#高级编程(第11版)  C# 7 & .NET Core 2.0（.NET开发
-京东
-¥168.00
-去购买
-          C#专家级指南，是经验丰富的程序员提高效率的更快捷方式！ 连续畅销20年，累计销售超30万册， 第11次全新升级，更新至C# 7 和 .NET Core 2.0， C# 7内幕指南。
-          5.C#从入门到精通（第5版）。
-           购买链接：
+购买链接：
 
-软件开发视频大讲堂：C#从入门到精通（第4版 附光盘）
-京东
-¥55.90
-去购买
-          30小时教学视频+377个应用实例+108个实践练习+海量开发资源库，丛书累计销量200多万册。
-          6.C#项目开发实战入门。
-           购买链接：
+## 4.C#高级编程(第11版) C# 7 & .NET Core 2.0。
 
-C#项目开发实战入门
-京东
-¥57.00
-去购买
-           一本能让初学者通过项目实战开发学会编程的超值图书，精选实用项目，采用主流C#开发技术，让读者体验编程乐趣、获得实战经验，配同步视频教程和源代码，海量资源免费赠送。
-         四.博主推荐。
-          1.unity官方。
-           Unity官方开发者平台，分享最前沿的技术文章和开发经验。
-           链接：
-           2.Unity分享喵。
-            Unity程序员 CG工程师。
-            链接：
-           3.Unity3d游戏开发指南。
-             Unity3d游戏开发，AR开发。
-             链接：
-            4.chutianbo。
-             xyz 的编程教程。
-             链接：
-            5.幕后的汪。
-             技术无产阶级农民工。
-             链接：
-            6.RealWilliamWang。
-             不定时更新编程类的教学视频。
-             链接：
-            7.千锋Unity3D特训营。
-             千锋unity游戏开发必备，千锋教育带你飞！
-             链接：
-             8.siki学院。
-              我们官网有超多超多超多超多的教程。
-              链接：
-siki学院的个人空间_哔哩哔哩_Bilibili
-            五.文章推荐。
-              1.unity学习资源。
-陶程：Unity 学习资源（超全）
-3778 赞同 · 76 评论文章
+购买链接：
 
-              2.unity从入门到入坟。
-放牛的星星：[教程汇总+持续更新]Unity从入门到入坟——收藏这一篇就够了
-3197 赞同 · 122 评论文章
+## 5.C#从入门到精通（第5版）。
 
-             3.如何学好 Unity？
-如何学好 Unity？
-1501 赞同 · 77 评论回答
-              4.使用Unity引擎时有哪些禁忌？
-              5.一起来说说哪些作品是用Unity制作的高品质分享？
-              6.「 Unity 3D」是什么，如何快速入门？
-             7.如何系统地自学 Unity3D？
-             六.插件与资源推荐。
-                1. Playmaker。
-编辑
-添加图片注释，不超过 140 字（可选）
-一款供《炉石传说》、《INSIDE》、《空心骑士》、《第一棵树》、《观察》、《梦幻降临》等游戏使用的顶级 Unity 可视化脚本工具。
-Playmaker
-百度网盘：链接：https://pan.baidu.com/s/1eWbCDAOQPlniYO1ULOm6RQ 
-提取码：siki 
+购买链接：
 
-               2. Dynamic Bone。
-编辑
-添加图片注释，不超过 140 字（可选）
-                Dynamic Bone可给角色骨骼和关节增添物理效果。只需简单设置，角色的头发、衣服、胸部等部分就会拥有逼真的动作。
-百度网盘：链接：https://pan.baidu.com/s/1cxyFq0KZAFGe7OWpqxRnRQ 
-提取码：siki 
+## 6.C#项目开发实战入门。
 
-                3.Amplify Shader Editor。
-编辑
-添加图片注释，不超过 140 字（可选）
-                 内置渲染器、HD、URP 和轻量级 SRP 支持。
-百度网盘：链接：https://pan.baidu.com/s/1YhQhv-lH0rF8ozvyOyZw2A 
-提取码：siki 
+购买链接：
 
-4.Final IK。
-编辑
-添加图片注释，不超过 140 字（可选）
-                 先进的动画系统。
-百度网盘：链接：https://pan.baidu.com/s/15Mf8qxZ2Jnc8EvGjnxKL4g 
-提取码：siki 
+## 四.博主推荐。
 
-               5.Easy Save - The Complete Save Data & Serialization System。
-编辑
-添加图片注释，不超过 140 字（可选）
-                方便保存和加载数据。
-百度网盘：链接：https://pan.baidu.com/s/1xGWGJz-pcnp9zJKWmJz1LA 
-提取码：siki 
+## 1.unity官方。
 
-              6.Dialogue System for Unity。
-编辑
-添加图片注释，不超过 140 字（可选）
-               可以将对话加入到工程中。
-Dialogue System
+  Unity官方开发者平台，分享最前沿的技术文章和开发经验。
+  链接：
+
+## 2.Unity分享喵。
+
+  Unity程序员 CG工程师。
+  链接：
+
+## 3.Unity3d游戏开发指南。
+
+  Unity3d游戏开发，AR开发。
+  链接：
+
+## 4.chutianbo。
+
+   xyz 的编程教程。
+   链接：
+
+## 5.幕后的汪。
+
+  技术无产阶级农民工。
+  链接：
+
+## 6.RealWilliamWang。
+
+  不定时更新编程类的教学视频。
+  链接：
+
+## 7.千锋Unity3D特训营。
+
+  千锋unity游戏开发必备，千锋教育带你飞！
+  链接：
+
+## 8.siki学院。
+
+  我们官网有超多超多超多超多的教程。
+  链接：
+
+# 五.文章推荐。
+
+## 1.unity学习资源。
+
+  陶程：Unity 学习资源（超全）
+  3778 赞同 · 76 评论文章
+
+## 2.unity从入门到入坟。
+
+  放牛的星星：[教程汇总+持续更新]Unity从入门到入坟——收藏这一篇就够了
+  3197 赞同 · 122 评论文章
+
+## 3.如何学好 Unity？
+
+  如何学好 Unity？
+  1501 赞同 · 77 评论回答
+
+## 4.使用Unity引擎时有哪些禁忌？
+
+## 5.一起来说说哪些作品是用Unity制作的高品质分享？
+
+## 6.「 Unity 3D」是什么，如何快速入门？
+
+## 7.如何系统地自学 Unity3D？
+
+# 六.插件与资源推荐。
+
+## 1.Playmaker。
+
+  一款供《炉石传说》、《INSIDE》、《空心骑士》、《第一棵树》、《观察》、《梦幻降临》等游戏使用的顶级 Unity 可视化脚本工具。
+  Playmaker
+  百度网盘：链接：https://pan.baidu.com/s/1eWbCDAOQPlniYO1ULOm6RQ 
+  提取码：siki 
+
+## 2.Dynamic Bone。
+
+  Dynamic Bone可给角色骨骼和关节增添物理效果。只需简单设置，角色的头发、衣服、胸部等部分就会拥有逼真的动作。
+  百度网盘：链接：https://pan.baidu.com/s/1cxyFq0KZAFGe7OWpqxRnRQ 
+  提取码：siki 
+
+## 3.Amplify Shader Editor。
+
+  百度网盘：链接：https://pan.baidu.com/s/1YhQhv-lH0rF8ozvyOyZw2A 
+  提取码：siki 
+
+## 4.Final IK。
+
+  百度网盘：链接：https://pan.baidu.com/s/15Mf8qxZ2Jnc8EvGjnxKL4g 
+  提取码：siki 
+
+## 5.Easy Save - The Complete Save Data & Serialization System。
+
+  百度网盘：链接：https://pan.baidu.com/s/1xGWGJz-pcnp9zJKWmJz1LA 
+  提取码：siki 
+
+## 6.Dialogue System for Unity。
+
+  Dialogue System
 百度网盘：链接：https://pan.baidu.com/s/1QiEr6ys4oBMILZaqqKuTdg 
 提取码：siki 
 
-              7.Behavior Designer。
-编辑
-添加图片注释，不超过 140 字（可选）
-               AAA 工作室使用行为树来创建栩栩如生的 AI。
-Behavior Designer
+## 7.Behavior Designer。
+
+  Behavior Designer
 百度网盘：链接：https://pan.baidu.com/s/142ASQYwp0C-_dIW_GfzvdA 
 提取码：siki 
 
-             8.Odin - Inspector and Serializer。
+## 8.Odin - Inspector and Serializer。
 
-添加图片注释，不超过 140 字（可选）
-Odin 将催化你的 Unity 工作流程，使它轻易地为你和整个团队构建功能强大并适用于高级用户的编辑器。
-链接：https://pan.baidu.com/s/1sr8Xmn3YyR87UPgiMA2Zmg 
+  链接：https://pan.baidu.com/s/1sr8Xmn3YyR87UPgiMA2Zmg 
 提取码：siki 
 
-             9.Unity实用插件 - EasyTouch5使用指南。
-今天发布一门Unity实用插件指南——EasyTouch5，适合对Unity稍有了解并且想简单快速的接入移动端触摸控制的同学学习。课程不挑剔Unity版本，EasyTouch的版本采用了目前最新的5.0.17，讲解了使用方法，解决了插件Bug，帮大家在插件的使用方面扫除了一些坑！
-            10.Dotween API详解及动效插件。
-             本课程详细讲解了Dotween的常用API，就算是经常用Dotween的同学，相信也能学到新东西，最后还附带了一个我写的动效插件，里面有成品效果，可以直接应用到你自己的项目中，希望大家喜欢这次的课程，喜欢的话记得给好评哈！
-            11.Unity随机地图生成插件讲解。
-             本课程为讲解Unity三款随机地图插件。
-             12.OSC协议 - UniOSC插件使用。
-              本课程带领大家学习OSC协议，学习封装了发送和接收OSC协议数据的一个插件，即UniOSC，这个插件可以实现局域网通信，可以接收和发送数据。
-            13. Unity VR - VRTK插件功能全掌握（Htc Vive）。
-             在本次课程中，老师带领大家学习VRTK插件的所有功能，VRTK是一款高效的VR开发工具包，封装了VR交互的多种模块，我们可以使用这个插件快速的做出VR游戏里很多常用的功能，非常方便，代码开源，可以自己修改编辑。在接下来的课程中，我们一点一点的把这个插件使用方式吃透。
-            14. Unity - （FMETP STREAM）实时画面传输插件使用讲解。
-             在本次课程中，老师给大家讲解Unity实时传输画面插件的使用，带领大家掌握这个插件的功能，实现mac、win、android、ios在局域网或广域网下画面同步。欢迎大家加入学习。
-           15. Unity实用插件 - ShareSDK集成指南。
-            本门课程带领大家学习Unity集成ShareSDK的相关知识，包含了第三方登录和内容分享两方面的内容，其中第三方登录使用新浪微博和手机号登录两种途径做演示，整体基于Android平台演示和测试，另有制作AndroidToast和Unicode转中文的附代内容，欢迎有需要的同学加入学习！
-           16. Unity动态骨骼插件 - DynamicBone使用教程。
-            DynamicBone是一款非常好用的Unity动态骨骼插件。其主要作用是可以用于针对骨骼进行物理模拟，它开放了Damping，Elasticity，Stiffness，Inert等物理属性接口，并且开发者可以通过配置DynamicBoneCollider来配置相应的碰撞体，来进行碰撞结算。
-             17. iTween。
+## 9.Unity实用插件 - EasyTouch5使用指南。
+
+  今天发布一门Unity实用插件指南——EasyTouch5，适合对Unity稍有了解并且想简单快速的接入移动端触摸控制的同学学习。课程不挑剔Unity版本，EasyTouch的版本采用了目前最新的5.0.17，讲解了使用方法，解决了插件Bug，帮大家在插件的使用方面扫除了一些坑！
+
+## 10.Dotween API详解及动效插件。
+
+  本课程详细讲解了Dotween的常用API，就算是经常用Dotween的同学，相信也能学到新东西，最后还附带了一个我写的动效插件，里面有成品效果，可以直接应用到你自己的项目中，希望大家喜欢这次的课程，喜欢的话记得给好评哈！
+
+## 11.Unity随机地图生成插件讲解。
+
+  本课程为讲解Unity三款随机地图插件。
+
+## 12.OSC协议 - UniOSC插件使用。
+
+  本课程带领大家学习OSC协议，学习封装了发送和接收OSC协议数据的一个插件，即UniOSC，这个插件可以实现局域网通信，可以接收和发送数据。
+
+## 13.Unity VR - VRTK插件功能全掌握（Htc Vive)。
+
+  在本次课程中，老师带领大家学习VRTK插件的所有功能，VRTK是一款高效的VR开发工具包，封装了VR交互的多种模块，我们可以使用这个插件快速的做出VR游戏里很多常用的功能，非常方便，代码开源，可以自己修改编辑。在接下来的课程中，我们一点一点的把这个插件使用方式吃透。
+## 14.Unity - （FMETP STREAM）实时画面传输插件使用讲解。
+
+  在本次课程中，老师给大家讲解Unity实时传输画面插件的使用，带领大家掌握这个插件的功能，实现mac、win、android、ios在局域网或广域网下画面同步。欢迎大家加入学习。
+
+## 15.Unity实用插件 - ShareSDK集成指南。
+
+  本门课程带领大家学习Unity集成ShareSDK的相关知识，包含了第三方登录和内容分享两方面的内容，其中第三方登录使用新浪微博和手机号登录两种途径做演示，整体基于Android平台演示和测试，另有制作AndroidToast和Unicode转中文的附代内容，欢迎有需要的同学加入学习！
+
+## 16.Unity动态骨骼插件 - DynamicBone使用教程。
+
+  DynamicBone是一款非常好用的Unity动态骨骼插件。其主要作用是可以用于针对骨骼进行物理模拟，它开放了Damping，Elasticity，Stiffness，Inert等物理属性接口，并且开发者可以通过配置DynamicBoneCollider来配置相应的碰撞体，来进行碰撞结算。
+
+## 17.iTween。
 
 添加图片注释，不超过 140 字（可选）
                iTween是一个动画库,作者创建它的目的就是最小的投入实现最大的产出.让你做开发更轻松,用它可以

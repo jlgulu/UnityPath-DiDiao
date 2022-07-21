@@ -239,49 +239,49 @@ Unity 3D游戏开发之脚本系统
 
 ## 1.游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）。
 
- 购买链接：
+ 购买链接：http://product.dangdang.com/1641876999.html
 
 ## 2.Unity3D游戏开发。
 
-购买链接：
+购买链接：http://product.dangdang.com/25347358.html
 
 ## 3.Unity3D网络游戏实战。
 
-购买链接：
+购买链接：http://product.dangdang.com/26437824.html
 
 ## 4.C#高级编程(第11版) C# 7 & .NET Core 2.0。
 
-购买链接：
+购买链接：http://product.dangdang.com/27852634.html
 
 ## 5.C#从入门到精通（第5版）。
 
-购买链接：
+购买链接：http://product.dangdang.com/29317719.html
 
 ## 6.C#项目开发实战入门。
 
-购买链接：
+购买链接：http://product.dangdang.com/28486000.html
 
 ## 四.博主推荐。
 
 ## 1.unity官方。
 
   Unity官方开发者平台，分享最前沿的技术文章和开发经验。
-  链接：
+  链接：https://www.zhihu.com/org/unityda-zhong-hua-qu
 
 ## 2.Unity分享喵。
 
   Unity程序员 CG工程师。
-  链接：
+  链接：https://www.zhihu.com/people/jeremy-36-55
 
 ## 3.Unity3d游戏开发指南。
 
   Unity3d游戏开发，AR开发。
-  链接：
+  链接：https://www.zhihu.com/people/unity3dyou-xi-kai-fa-zhi-nan
 
 ## 4.chutianbo。
 
    xyz 的编程教程。
-   链接：
+   链接：https://space.bilibili.com/43644141
 
 ## 5.幕后的汪。
 

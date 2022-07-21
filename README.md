@@ -9,6 +9,8 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 Unity初级案例 - 贪吃蛇（Unity2017.2.0） - SiKi学院 - 生命不息，学习不止！
 
+链接：(https://www.sikiedu.com/course/89)
+
   Unity初级案例课程，适合对Unity稍有了解的同学学习和挑战，课程使用Unity帮大家找回儿时诺基亚，红白机上的经典贪吃蛇！内含小清新的素材，通俗易懂的实现方法，对游戏逻辑的多种实现方法等。
 
 ## 2.吃豆人。

@@ -286,47 +286,55 @@ Unity 3D游戏开发之脚本系统
 ## 5.幕后的汪。
 
   技术无产阶级农民工。
-  链接：
+  链接：https://space.bilibili.com/111233704
 
 ## 6.RealWilliamWang。
 
   不定时更新编程类的教学视频。
-  链接：
+  链接：https://space.bilibili.com/15477395
 
 ## 7.千锋Unity3D特训营。
 
   千锋unity游戏开发必备，千锋教育带你飞！
-  链接：
+  链接：https://space.bilibili.com/476634375
 
 ## 8.siki学院。
 
   我们官网有超多超多超多超多的教程。
-  链接：
+  链接：https://space.bilibili.com/360797404
 
 # 五.文章推荐。
 
 ## 1.unity学习资源。
 
-  陶程：Unity 学习资源（超全）
+  陶程：Unity 学习资源（超全）https://zhuanlan.zhihu.com/p/29383687
   3778 赞同 · 76 评论文章
 
 ## 2.unity从入门到入坟。
 
-  放牛的星星：[教程汇总+持续更新]Unity从入门到入坟——收藏这一篇就够了
+  放牛的星星：[教程汇总+持续更新]Unity从入门到入坟——收藏这一篇就够了https://zhuanlan.zhihu.com/p/151238164
   3197 赞同 · 122 评论文章
 
 ## 3.如何学好 Unity？
 
-  如何学好 Unity？
+  如何学好 Unity？https://www.zhihu.com/question/23790314/answer/46815232
   1501 赞同 · 77 评论回答
 
 ## 4.使用Unity引擎时有哪些禁忌？
 
+https://www.zhihu.com/question/61642141/answer/597451261
+
 ## 5.一起来说说哪些作品是用Unity制作的高品质分享？
+
+https://www.zhihu.com/question/430676721/answer/1622404187
 
 ## 6.「 Unity 3D」是什么，如何快速入门？
 
+https://www.zhihu.com/question/313621072/answer/617875798
+
 ## 7.如何系统地自学 Unity3D？
+
+https://www.zhihu.com/question/305705282/answer/551943583
 
 # 六.插件与资源推荐。
 
@@ -377,41 +385,61 @@ Unity 3D游戏开发之脚本系统
 
 ## 9.Unity实用插件 - EasyTouch5使用指南。
 
+https://www.sikiedu.com/course/91
+
   今天发布一门Unity实用插件指南——EasyTouch5，适合对Unity稍有了解并且想简单快速的接入移动端触摸控制的同学学习。课程不挑剔Unity版本，EasyTouch的版本采用了目前最新的5.0.17，讲解了使用方法，解决了插件Bug，帮大家在插件的使用方面扫除了一些坑！
 
 ## 10.Dotween API详解及动效插件。
+
+https://www.sikiedu.com/course/328
 
   本课程详细讲解了Dotween的常用API，就算是经常用Dotween的同学，相信也能学到新东西，最后还附带了一个我写的动效插件，里面有成品效果，可以直接应用到你自己的项目中，希望大家喜欢这次的课程，喜欢的话记得给好评哈！
 
 ## 11.Unity随机地图生成插件讲解。
 
+https://www.sikiedu.com/course/387
+
   本课程为讲解Unity三款随机地图插件。
 
 ## 12.OSC协议 - UniOSC插件使用。
+
+https://www.sikiedu.com/course/436
 
   本课程带领大家学习OSC协议，学习封装了发送和接收OSC协议数据的一个插件，即UniOSC，这个插件可以实现局域网通信，可以接收和发送数据。
 
 ## 13.Unity VR - VRTK插件功能全掌握（Htc Vive)。
 
+https://www.sikiedu.com/course/523
+
   在本次课程中，老师带领大家学习VRTK插件的所有功能，VRTK是一款高效的VR开发工具包，封装了VR交互的多种模块，我们可以使用这个插件快速的做出VR游戏里很多常用的功能，非常方便，代码开源，可以自己修改编辑。在接下来的课程中，我们一点一点的把这个插件使用方式吃透。
 ## 14.Unity - （FMETP STREAM）实时画面传输插件使用讲解。
+
+https://www.sikiedu.com/course/913
 
   在本次课程中，老师给大家讲解Unity实时传输画面插件的使用，带领大家掌握这个插件的功能，实现mac、win、android、ios在局域网或广域网下画面同步。欢迎大家加入学习。
 
 ## 15.Unity实用插件 - ShareSDK集成指南。
 
+https://www.sikiedu.com/course/140
+
   本门课程带领大家学习Unity集成ShareSDK的相关知识，包含了第三方登录和内容分享两方面的内容，其中第三方登录使用新浪微博和手机号登录两种途径做演示，整体基于Android平台演示和测试，另有制作AndroidToast和Unicode转中文的附代内容，欢迎有需要的同学加入学习！
 
 ## 16.Unity动态骨骼插件 - DynamicBone使用教程。
+
+https://www.sikiedu.com/course/816
 
   DynamicBone是一款非常好用的Unity动态骨骼插件。其主要作用是可以用于针对骨骼进行物理模拟，它开放了Damping，Elasticity，Stiffness，Inert等物理属性接口，并且开发者可以通过配置DynamicBoneCollider来配置相应的碰撞体，来进行碰撞结算。
 
 ## 17.iTween。
 
+https://assetstore.unity.com/packages/tools/animation/itween-84
+
   iTween是一个动画库,作者创建它的目的就是最小的投入实现最大的产出.让你做开发更轻松,用它可以
 轻松实现各种动画,晃动,旋转,移动,褪色,上色,控制音频等等。
 
 ## 18. Photon Unity Networking。
+
+https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786
 
    Photon Unity Networking (PUN)是一种用于多人游戏的Unity软件包。灵活的匹配可以让玩家进入房间，可以通过网络同步对象。快速和可靠的通信是通过专用的Photon 服务器完成的，因此客户端连接不需要1对1。
 
@@ -443,65 +471,121 @@ Unity 3D游戏开发之脚本系统
 
 ## 1.c＃编程基础。
 
+C#编程第一季：https://www.sikiedu.com/course/926
+
+C#编程第二季：https://www.sikiedu.com/course/931
+
+C#编程第三季：https://www.sikiedu.com/course/935
+
+Unity中的C#编程-零基础：https://www.sikiedu.com/course/83
+
+Unity零基础入门教程RollABall：https://www.sikiedu.com/course/862
+
+Unity零基础入门教程打砖块：https://www.sikiedu.com/course/890
+
+零基础入门古迹探险：https://www.sikiedu.com/course/84
+
 ## 2.unity3d游戏开发零基础入门系列教程。
+
+Ruby Adventure：https://www.sikiedu.com/course/650
+
+Unity常用API：https://www.sikiedu.com/course/987
+
+案例驱动学习UGUI：https://www.sikiedu.com/course/965
+
+塔防游戏：https://www.sikiedu.com/course/46
+
+C#编程第四季：https://www.sikiedu.com/course/936
+
+C#编程第五季：https://www.sikiedu.com/course/937
+
+Unity研究实验室：https://www.sikiedu.com/course/43
+
+捕鱼达人：https://www.sikiedu.com/course/88
+
+幻径：https://www.sikiedu.com/course/375
+
+清洗者日记：https://www.sikiedu.com/course/586
 
 ## 3.unity3d游戏开发进阶系列教程。
 
-游戏开发中的设计模式（Unity 5.6）
-Unity2.5D RTS案例-云端战纪 - SiKi学院 - 生命不息，学习不止！
-Unity3D FPS案例 - 消灭病毒
-C#编程-第六季-编程内功修炼-算法-宇宙最简单教程 - SiKi学院 - 生命不息，学习不止！
-Unity商业游戏底层资源加载框架（Unity2018.1） - SiKi学院 - 生命不息，学习不止！
-框架搭建 决定版：架构演化（第一季）
+黑暗女王的复活：https://www.sikiedu.com/course/1016
+
+背包系统 装备系统和锻造系统：https://www.sikiedu.com/course/40
+
+Unity3D中级案例 - 萌熊跑酷：https://www.sikiedu.com/course/162
+
+MySQL数据库从零到精通：https://www.sikiedu.com/course/48
+
+Unity2D 塔防案例 - 保卫萝卜：https://www.sikiedu.com/course/260
+
+游戏开发中的设计模式（Unity 5.6）：https://www.sikiedu.com/course/55
+
+Unity2.5D RTS案例-云端战纪 - SiKi学院 - 生命不息，学习不止！：https://www.sikiedu.com/course/555
+
+Unity3D FPS案例 - 消灭病毒：https://www.sikiedu.com/course/924
+
+C#编程-第六季-编程内功修炼-算法-宇宙最简单教程 - SiKi学院 - 生命不息，学习不止！：https://www.sikiedu.com/course/45
+
+Unity商业游戏底层资源加载框架（Unity2018.1） - SiKi学院 - 生命不息，学习不止！：https://www.sikiedu.com/course/311
+
+框架搭建 决定版：架构演化（第一季）：https://www.sikiedu.com/course/876
+
+框架搭建 决定版：应用篇（第二季）：https://www.sikiedu.com/course/911
+
+框架搭建 决定版：理论强化篇（第三季）：https://www.sikiedu.com/course/948
 
 ## 4.网络游戏和进阶项目。
 
-阿里云SMS&OSS、腾讯云COS接入Unity（Unity2018.1.0） - SiKi学院 - 生命不息，学习不止！
-棋牌类游戏 - 诈金花（联网+单机） - SiKi学院 - 生命不息，学习不止！
-《丛林战争》直接利用Socket/TCP开发网络游戏 - C#（Unity5.6）
-《暗黑战神》3D网游ARPG实战案例（第一季）（Unity 2017.3）
-《暗黑战神》3D网游ARPG实战案例（第二季）（Unity 2017.3）
+C#编程-第七季-Leetcode编程面试题-宇宙最简单2022最新版：https://www.sikiedu.com/course/938
+
+阿里云SMS&OSS、腾讯云COS接入Unity（Unity2018.1.0） - SiKi学院 - 生命不息，学习不止！：https://www.sikiedu.com/course/303
+
+棋牌类游戏 - 诈金花（联网+单机） - SiKi学院 - 生命不息，学习不止！：https://www.sikiedu.com/course/356
+
+《丛林战争》直接利用Socket/TCP开发网络游戏 - C#（Unity5.6）：https://www.sikiedu.com/course/63
+
+《暗黑战神》3D网游ARPG实战案例（第一季）（Unity 2017.3）：https://www.sikiedu.com/course/330
+
+《暗黑战神》3D网游ARPG实战案例（第二季）（Unity 2017.3）：https://www.sikiedu.com/course/433
 
 # 八.网站推荐。
 
 ## 1.siki学院。
 
-链接：
+链接：https://www.sikiedu.com/
 
 ## 2.泰课。
 
-链接：
+链接：https://www.taikr.com/
 
 ## 3.慕课网。
 
-链接：
+链接：https://www.imooc.com/
 慕课网-程序员的梦工厂
 
 ## 4.蛮牛教育。
 
-链接：
-https://edu.manew.com/
+链接：https://edu.manew.com/
 
 ## 5.极客学院。
 
-链接：
+链接：https://www.jikexueyuan.com/
 极客学习平台 - 专业的IT职业在线教育平台
 
 ## 6.哔哩哔哩。
 
-链接：
+链接：https://www.bilibili.com/?spm_id_from=333.337.0.0
 搜索_哔哩哔哩-bilibili
 
 ## 7.创客学院。
 
-链接：
+链接：http://www.makeru.com.cn/
 创客学院-嵌入式培训|Java培训|Python培训|物联网培训 一站式IT培训在线学习平台
 
 ## 8.51cto学院。
 
-链接：
-
-## 51CTO学堂-IT培训_IT人充电上51CTO学堂
+链接：https://edu.51cto.com/
 
 # 九.优缺点。
 
@@ -515,6 +599,6 @@ https://edu.manew.com/
 
 ## 2.缺点。
 
-  视觉效果：视觉效果不如unreal。
+视觉效果：视觉效果不如unreal。
 源代码：无法从源代码构建或修复错误。
 模块化的开发方法使项目更容易遭到破坏。

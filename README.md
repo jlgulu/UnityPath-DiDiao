@@ -3,6 +3,8 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 一份涵盖大部分Unity工程师所需要掌握的核心知识，面试求职找工作，来这里，你不会后悔。以后会不断升级...
 在学习unity的过程中，大家往往会因为找不到相关的学习资料而苦恼，本文章收集了相关的资料：包括视频，书籍，源码，博主，文章。
 
+Unity学习路线链接：https://rem8k7dwu0.feishu.cn/mindnotes/bmncnC0wnpK5CUevqHDRxrDFQ7c
+
 # 一.视频教程。
 
 ## 1.贪吃蛇。

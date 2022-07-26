@@ -237,6 +237,96 @@ Unity 3D游戏开发之脚本系统
  链接：https://pan.baidu.com/s/15hDsvic0UgbWoEGXfvJROg?pwd=siki 
  提取码：siki 
 
+## 19.农场
+
+链接：https://pan.baidu.com/s/1rJh3d1VGCRNjO1tnnhVGYw 
+
+提取码：siki 
+
+## 20.连线消除
+
+链接：https://pan.baidu.com/s/1X4qPir1YVWYOWcEsx01Y_g 
+
+提取码：siki 
+
+## 21.RPG游戏
+
+链接：https://pan.baidu.com/s/1ZnRqQq3-ZAc4hEJYU80msA 
+
+提取码：siki 
+
+## 22.切水果
+
+链接：https://pan.baidu.com/s/1bALeP5DGY2GAbOC6d1NvGQ 
+
+提取码：siki 
+
+## 23.AAA级FPS
+
+链接：https://pan.baidu.com/s/14uff3F4wlWjaxadyr4Q0BQ 
+
+提取码：siki 
+
+## 24.愤怒的小鸟
+
+链接：https://pan.baidu.com/s/17cNxVJZDyWtKNED3-3SCxQ 
+
+提取码：siki 
+
+## 25.FPS游戏项目
+
+链接：https://pan.baidu.com/s/1vVdK1ndiuRz6WicLUPK-tw 
+
+提取码：siki 
+
+## 26.3D射击游戏武器系统
+
+链接：https://pan.baidu.com/s/1xcPCkbUsH3jQPU_34a8PVw 
+
+提取码：siki 
+
+## 27.CS源码
+
+链接：https://pan.baidu.com/s/1PoHZ3tIn8hJ8erF8ltK5cw 
+
+提取码：siki 
+
+## 28.动漫格斗手游
+
+链接：https://pan.baidu.com/s/1bbyTNd6EjekUypy6pbkucA 
+
+提取码：siki 
+
+## 29.海洋系统
+
+链接：https://pan.baidu.com/s/17elFNY3B5YmgFEYDUVhvBw 
+
+提取码：siki 
+
+## 30.魔兽角色动作
+
+链接：https://pan.baidu.com/s/1UaMXGUwPcOUiEnzHDUl4Ug 
+
+提取码：siki 
+
+## 31.横板冒险游戏
+
+链接：https://pan.baidu.com/s/1CGv5I5PztGi1kt7aqY4DXw 
+
+提取码：siki 
+
+## 32.射击游戏
+
+链接：https://pan.baidu.com/s/1VYyCyxH0A2GWZU9tUinSYg 
+
+提取码：siki 
+
+## 33.暗黑3
+
+链接：https://pan.baidu.com/s/1GJc_FYDuYNteiWsaIVELsQ 
+
+提取码：siki 
+
 # 三.书籍推荐。      
 
 ## 1.游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）。

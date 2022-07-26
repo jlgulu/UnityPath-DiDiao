@@ -1,7 +1,9 @@
 #             从小白到大神-Unity最全资源整理合集
 Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D面试题、Unity3D开源项目、Unity3D书籍推荐、一份涵盖大部分Unity工程师所需要掌握的核心知识，面试求职找工作，来这里，你不会后悔。以后会不断升级...在学习unity的过程中，大家往往会因为找不到相关的学习资料而苦恼，本文章收集了相关的资料：包括视频，书籍，源码，博主，文章。
 
-Unity学习路线链接：https://rem8k7dwu0.feishu.cn/mindnotes/bmncnC0wnpK5CUevqHDRxrDFQ7c
+Unity学习路线图链接：https://rem8k7dwu0.feishu.cn/mindnotes/bmncnC0wnpK5CUevqHDRxrDFQ7c
+
+![](C:\Users\86178\Desktop\桌面\unity最全资源整理合集 (3).png)
 
 最后更新时间：2022.7.26
 
@@ -143,6 +145,56 @@ Unity 3D游戏开发之脚本系统
 ## 20.Unity3D入门总览。
 
 链接：http://www.makeru.com.cn/course/details/2331.html
+
+## 21.复旦大学公开课：Unity学习基础
+
+链接：https://open.163.com/newview/movie/free?pid=VEVOM941J&mid=IEVOM942O
+
+## 22.复旦大学公开课：Unity学习进阶
+
+链接：https://open.163.com/newview/movie/free?pid=JEVOM969N&mid=QEVOM96B0
+
+## 23.Unity3D入门教学+C#编程基础
+
+链接：https://open.163.com/newview/movie/free?pid=HEV70455T&mid=IEV704618
+
+## 24.黑暗之光RPG
+
+链接：https://open.163.com/newview/movie/free?pid=KEV1HUAAB&mid=CEV1HUAUC
+
+## 25.Unity全栈开发大师，大厂商业架构
+
+链接：https://ke.qq.com/course/422892?_wv=2147487745#term_id=100504808
+
+## 26.Unity全栈开发MMORPG网游
+
+链接：https://ke.qq.com/course/315238?_wv=2147487745#term_id=100374070
+
+## 27.C#＋Unity3D零基础入门教程
+
+链接：https://ke.qq.com/course/3137160?_wv=2147487745#term_id=103261796
+
+## 28.图形学，Shader开发，渲染管线
+
+https://ke.qq.com/course/3136281?_wv=2147487745#term_id=103260739
+
+## 29.Unity API视频手册
+
+https://ke.qq.com/course/427446?_wv=2147487745#term_id=100510316
+
+## 30.零基础入门VR/AP（C#+Unity3D）
+
+https://ke.qq.com/course/3170235?_wv=2147487745#term_id=103297163
+
+## 31.Unity与Android，IOS打包与交互
+
+https://ke.qq.com/course/3101943?_wv=2147487745#term_id=103224340
+
+## 32.UGUI入门
+
+https://ke.qq.com/course/3060818?_wv=2147487745#term_id=103179346
+
+
 
 # 二.源码。
 
